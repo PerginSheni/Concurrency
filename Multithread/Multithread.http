@@ -1,0 +1,6 @@
+@Multithread_HostAddress = http://localhost:5266
+
+GET {{Multithread_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

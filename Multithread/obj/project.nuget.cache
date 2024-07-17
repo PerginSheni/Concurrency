@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "sBgUDPKRW3LvbP2TEYX3zvrF51ASf4twJ8jo5wtKOlyrY5VQj17f9+IJXC9lV88mogh0EY1Wqz+w/I+ULwu5KA==",
+  "success": true,
+  "projectFilePath": "D:\\sheni\\Azure\\Multithread\\Multithread\\Multithread.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dines\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\dines\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\dines\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\dines\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\dines\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\dines\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
